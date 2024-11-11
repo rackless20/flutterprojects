@@ -1,0 +1,2 @@
+About flutter
+A Flutter developer is a software professional who uses Google's Flutter framework to build apps for Android, iOS, and Google Fuchsia. Flutter is an open-source SDK that allows developers to build 2D apps.
